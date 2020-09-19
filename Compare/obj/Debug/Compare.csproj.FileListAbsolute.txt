@@ -1,0 +1,6 @@
+C:\Users\Danil\Desktop\Для работы\Compare\Compare\bin\Debug\Compare.exe.config
+C:\Users\Danil\Desktop\Для работы\Compare\Compare\obj\Debug\Compare.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Desktop\Для работы\Compare\Compare\bin\Debug\Compare.exe
+C:\Users\Danil\Desktop\Для работы\Compare\Compare\bin\Debug\Compare.pdb
+C:\Users\Danil\Desktop\Для работы\Compare\Compare\obj\Debug\Compare.exe
+C:\Users\Danil\Desktop\Для работы\Compare\Compare\obj\Debug\Compare.pdb
